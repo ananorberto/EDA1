@@ -18,6 +18,7 @@ int main()
             et = 1;
         }
     }
-    et == 0 ? printf("none\n") : EOF;
+    if (et == 0)
+        printf("none\n");
     return 0;
 }

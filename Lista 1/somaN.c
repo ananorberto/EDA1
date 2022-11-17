@@ -7,14 +7,14 @@
 */
 int main()
 {
-    int n, s, j, t=0;
+    int n, soma, j, resultado=0;
 
     scanf("%i", &n);
 
     for(j=0; j<n; j++){
-        scanf("%i", &s);
-        t += s;
+        scanf("%i", &soma);
+        resultado += soma;
     }
-    printf("%i\n", t);
+    printf("%i\n", resultado);
     return 0;
 }
