@@ -15,3 +15,15 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
 * M2 - Cursor do Editor de texto [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista1-relembrando/cursor-miv-cima-baixo.pdf)
 
 #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%201)
+#
+### Lista 2
+
+ * A - Ajude Aparecido - Simplificado [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/ajude_simplificado.pdf)
+ * A1 - Ajude Aparecido [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/ajude.pdf)
+ * B - Soma2 [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/soma2_funcao.pdf)
+ * B1 - Faça as contas [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/faca-as-contas.pdf)
+ * B2 - Swap [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/swap.pdf)
+ * C - Strings secretas [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/str-secreta.pdf)
+ 
+ #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/ListaX)
+ #
