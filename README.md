@@ -1,7 +1,8 @@
 # EDA1
 Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
 #
-### Lista 1
+### Lista 1 - Desenferrujando para o semestre
+ㅤ
 * A - Olá Mundo [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista1-relembrando/olamundo.pdf)
 * B1 - Soma 2 [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista1-relembrando/soma2.pdf)
 * B2 - Soma N [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista1-relembrando/soma.pdf)
@@ -16,8 +17,8 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
 
 #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%201)
 #
-### Lista 2
-
+### Lista 2 - Pequenos ponteiros
+ㅤ
  * A - Ajude Aparecido - Simplificado [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/ajude_simplificado.pdf)
  * A1 - Ajude Aparecido [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/ajude.pdf)
  * B - Soma2 [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/soma2_funcao.pdf)
@@ -25,5 +26,5 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
  * B2 - Swap [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/swap.pdf)
  * C - Strings secretas [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/str-secreta.pdf)
  
- #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/ListaX)
+ #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%202)
  #
