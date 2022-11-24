@@ -28,3 +28,14 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
  
  #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%202)
  #
+ ### Lista 3 - Pequena Recursão
+ㅤ
+ * A - F91 - Simplificado [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista3-recursao/f91.pdf)
+ * B - Move os Xs [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista3-recursao/moveX.pdf)
+ * C - Rumo aos 9s [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista3-recursao/rumo9s.pdf)
+ * D - Soma dos dígitos [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista3-recursao/soma-digitos.pdf)
+ * E - Fibonacci espertinho [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista3-recursao/fibonacci-memoizacao.pdf)
+
+ #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%203)
+ #
+ 
