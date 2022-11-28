@@ -38,4 +38,20 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
 
  #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%203)
  #
- 
+ ### Lista 4 - Aquecimento para COPA
+ ㅤ
+ * COPA - Copa do Mundo - [[LINK]](http://br.spoj.com/problems/COPA.pdf)
+
+  #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%204)
+  #
+  ### Lista 5 - xxxxx
+ ㅤ
+ * X - nome - [[LINK]]()
+
+  #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%205)
+  #
+  ### Lista 6 - Segundo jogo da COPA
+ ㅤ
+ * JSEDEX - Despachando Bolas - [[LINK]](http://br.spoj.com/problems/JSEDEX.pdf)
+
+  #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%206)
