@@ -15,7 +15,7 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
 * M1 - Lenhador [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista1-relembrando/lumberjack.pdf)
 * M2 - Cursor do Editor de texto [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista1-relembrando/cursor-miv-cima-baixo.pdf)
 
-#### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%201)
+#### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%201%20-%20Revis%C3%A3o%20C)
 #
 ### Lista 2 - Pequenos ponteiros
 ㅤ
@@ -26,7 +26,7 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
  * B2 - Swap [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/swap.pdf)
  * C - Strings secretas [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista2-ptr/str-secreta.pdf)
  
- #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%202)
+ #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%202%20-%20Ponteiros)
  #
  ### Lista 3 - Pequena Recursão
 ㅤ
@@ -36,22 +36,22 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
  * D - Soma dos dígitos [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista3-recursao/soma-digitos.pdf)
  * E - Fibonacci espertinho [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista3-recursao/fibonacci-memoizacao.pdf)
 
- #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%203)
+ #### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%203%20-%20Recurs%C3%A3o)
  #
  ### Lista 4 - Aquecimento para COPA
  ㅤ
  * COPA - Copa do Mundo - [[LINK]](http://br.spoj.com/problems/COPA.pdf)
 
-  #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%204)
+  #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%204%20-%20Copa%201%20%F0%9F%87%A7%F0%9F%87%B7%20%20%F0%9F%8F%86)
   #
   ### Lista 5 - xxxxx
  ㅤ
  * X - nome - [[LINK]]()
 
-  #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%205)
+  #### --> [Solução]()
   #
   ### Lista 6 - Segundo jogo da COPA
  ㅤ
  * JSEDEX - Despachando Bolas - [[LINK]](http://br.spoj.com/problems/JSEDEX.pdf)
 
-  #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%206)
+  #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%206%20-%20Copa%202%20%F0%9F%87%A7%F0%9F%87%B7%20%20%F0%9F%8F%86)
