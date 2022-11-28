@@ -44,11 +44,16 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
 
   #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%204%20-%20Copa%201%20%F0%9F%87%A7%F0%9F%87%B7%20%20%F0%9F%8F%86)
   #
-  ### Lista 5 - xxxxx
+  ### Lista 5 - Recursão
  ㅤ
- * X - nome - [[LINK]]()
+ 
+ * A - Pares de caracteres - [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista5-recursao/conta-pares-string.pdf)
+ * B - Troca X por Y [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista5-recursao/replaceXY.pdf)
+ * C - String ao contrário [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista5-recursao/string-contrario.pdf)
+ * D - Maior substring [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista5-recursao/largest-substring.pdf)
+ * E - Ultrapassa Minimamente [[PDF]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista5-recursao/ultrapassaminimamente.pdf)
 
-  #### --> [Solução]()
+  #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%205%20-%20Recurs%C3%A3o2)
   #
   ### Lista 6 - Segundo jogo da COPA
  ㅤ
