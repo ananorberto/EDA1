@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int n, golsT1 = 0, golsT2 = 0, result = 0, chute = 1;
+    int n, golsT1 = 0, golsT2 = 0, result = 0;
 
     while(scanf("%d", &n))
     {
