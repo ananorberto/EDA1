@@ -72,7 +72,7 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
 ㅤ
 * Penalties - Penalties - [[LINK]](http://br.spoj.com/problems/PENALTIE.pdf)
 
-#### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%208%20-%20Copa%203%20%F0%9F%87%A7%F0%9F%87%B7%20%20%F0%9F%8F%86)
+#### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%208%20-%20Copa%204%20%F0%9F%87%A7%F0%9F%87%B7%20%20%F0%9F%8F%86)
 #
 ### Lista 9 - Ordenação Elementar
 ㅤ
@@ -82,5 +82,5 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
 * D - Busca geral num conjunto não ordenado - [[LINK]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista9-ordena-elementar/busca-binaria-2.pdf)
 * E - Pesquisa Instruções - [[LINK]](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista9-ordena-elementar/pesquisa-instrucoes.pdf)
 
-#### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%209%20-%20Copa%203%20%F0%9F%87%A7%F0%9F%87%B7%20%20%F0%9F%8F%86)
+#### --> [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%209%20-%20Ordena%C3%A7%C3%A3o)
 
