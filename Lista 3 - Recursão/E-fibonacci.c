@@ -1,4 +1,4 @@
-//#include <stdio.h>
+#include <stdio.h>
 
 long int fibonacci(int pos) {
 
@@ -20,15 +20,16 @@ long int fibonacci(int pos) {
 }
 
 
-// int main(void)
-// {
-//     int n;
-//     long int res;
-    
-//     scanf("%d", &n);
 
-//     res = fibonacci(n);
-//     printf("%ld\n", res);
-// }
+int main(void)
+{
+    int n;
+    long int res;
+    
+    scanf("%d", &n);
+
+    res = fibonacci(n);
+    printf("%ld\n", res);
+}
 
 
