@@ -72,6 +72,11 @@ Repositório da matéria de Estrutura de Dados e Algorítimos 1 (UnB - FGA)
 ㅤ
 * Penalties - Penalties - [[LINK]](http://br.spoj.com/problems/PENALTIE.pdf)
 
+
+> OBS: Copa deu ruim :( 
+> 
+> ~pelo menos não tem mais lista~
+
 #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%208%20-%20Copa%204%20%F0%9F%87%A7%F0%9F%87%B7%20%20%F0%9F%8F%86)
 #
 ### Lista 9 - Ordenação Elementar
