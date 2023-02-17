@@ -8,7 +8,7 @@
 
 
 #
-### O que recursão em C?
+### O que é recursão em C?
 
 Recursão, é uma técnica de programação que permite a uma função *chamar a si mesma* para resolver um problema. Essa técnica é útil quando o problema pode ser dividido em subproblemas menores, que podem ser resolvidos usando a mesma função.
 
