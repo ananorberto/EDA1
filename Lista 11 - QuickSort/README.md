@@ -9,10 +9,15 @@
 #
 ### Como funciona o QuickSort?
 
-> Aula sobre QuickSort - Bruno Ribas
-[Função Separa](https://youtu.be/bfvxUyzcd_M)
-[QuickSort Ingênuo](https://youtu.be/uqATK8S2fP8)
-[QuickSort Mediana](https://youtu.be/V9EDV2QJhF4)
+<details>
+  <summary>Links para video aulas</summary>
+  Aula sobre QuickSort - Bruno Ribas
+
+
+  * [Função Separa](https://youtu.be/bfvxUyzcd_M)
+  * [QuickSort Ingênuo](https://youtu.be/uqATK8S2fP8)
+  * [QuickSort Mediana](https://youtu.be/V9EDV2QJhF4)
+</details> 
 
 
 O QuickSort é um algoritmo de ordenação eficiente que utiliza o paradigma "dividir e conquistar" para ordenar um array. O algoritmo consiste nos seguintes passos:
