@@ -7,10 +7,11 @@ Disciplina ministrada pelo professor Bruno Cesar Ribas.
 ### Lista 1 - Desenferrujando para o semestre
 * [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%2001%20-%20Revis%C3%A3o%20C)
 #
-### Lista 2 - Pequenos ponteiros
+### Lista 2 - Pequenos ponteiros - [Resuminho](https://github.com/ananorberto/EDA1/tree/main/Lista%2002%20-%20Ponteiros#readme) 🙃
 * [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%2002%20-%20Ponteiros)
+
 #
-### Lista 3 - Pequena Recursão
+### Lista 3 - Pequena Recursão - [Resuminho](https://github.com/ananorberto/EDA1/tree/main/Lista%2003%20-%20Recurs%C3%A3o#readme) 🙃
 * [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%2003%20-%20Recurs%C3%A3o)
 #
 ### Lista 4 🇧🇷 - Aquecimento para COPA
@@ -46,14 +47,14 @@ Disciplina ministrada pelo professor Bruno Cesar Ribas.
 
    #### --> [Solução](https://github.com/ananorberto/EDA1/tree/main/Lista%208%20-%20Copa%204%20%F0%9F%87%A7%F0%9F%87%B7%20%20%F0%9F%8F%86)
 #
-### Lista 9 - Ordenação Elementar
+### Lista 9 - Ordenação Elementar - [Resuminho](https://github.com/ananorberto/EDA1/tree/main/Lista%2009%20-%20Ordena%C3%A7%C3%A3o#readme) 🙃
 * [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%2009%20-%20Ordena%C3%A7%C3%A3o)
 #
-### Lista 10 - MergeSort
+### Lista 10 - MergeSort - [Resuminho](https://github.com/ananorberto/EDA1/tree/main/Lista%2010%20-%20Mergesort#readme) 🙃
 * [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%2010%20-%20Mergesort)
 #
-### Lista 11 - QuickSort
+### Lista 11 - QuickSort - [Resuminho](https://github.com/ananorberto/EDA1/tree/main/Lista%2011%20-%20QuickSort#readme) 🙃
 * [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%2010%20-%20QuickSort)
 #
-### Lista 12 - Fila e Pilha vetor
+### Lista 12 - Fila e Pilha vetor 
 * [Soluções](https://github.com/ananorberto/EDA1/tree/main/Lista%2012%20-%20Fila%20e%20Pilha%20vetor)
